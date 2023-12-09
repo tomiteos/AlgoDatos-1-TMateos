@@ -29,3 +29,7 @@
 | [Practica Guia 7 - Funciones Sobre Listas (Python)](https://github.com/tomiteos/AlgoDatos-1-TMateos/blob/main/Practicas/Practica%20Guia%207%20-%20Funciones%20Sobre%20Listas%20(Python).pdf)|         |
 |[Practica Guia 8 - Archivos Pilas Colas y Diccionarios](https://github.com/tomiteos/AlgoDatos-1-TMateos/blob/main/Practicas/Practica%20Guia%208%20-%20Archivos%20Pilas%20Colas%20y%20Diccionarios.pdf)||
 
+### Parciales
+| Parcial      | Solucion     |
+| -------------  |:-------------:|
+| [Simulacro haskell](https://github.com/tomiteos/AlgoDatos-1-TMateos/blob/main/Simulacro/Simulacro%20Parcial%20Haskell.pdf) |  [Solucion](https://github.com/tomiteos/AlgoDatos-1-TMateos/blob/main/Parciales/Solucion%20haskell.hs.txt)|
