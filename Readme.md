@@ -27,7 +27,7 @@
 | [Practica Guia 5 - Recursion Listas](https://github.com/tomiteos/AlgoDatos-1-TMateos/blob/main/Practicas/Practica%20Guia%205%20-%20Recursion%20Listas.pdf)|          | 
 | [Practica Guia 6 - Intro Python](https://github.com/tomiteos/AlgoDatos-1-TMateos/blob/main/Practicas/Practica%20Guia%206%20-%20Intro%20Python.pdf)|         | 
 | [Practica Guia 7 - Funciones Sobre Listas (Python)](https://github.com/tomiteos/AlgoDatos-1-TMateos/blob/main/Practicas/Practica%20Guia%207%20-%20Funciones%20Sobre%20Listas%20(Python).pdf)|         |
-|[Practica Guia 8 - Archivos Pilas Colas y Diccionarios](https://github.com/tomiteos/AlgoDatos-1-TMateos/blob/main/Practicas/Practica%20Guia%208%20-%20Archivos%20Pilas%20Colas%20y%20Diccionarios.pdf)||
+|[Practica Guia 8 - Archivos Pilas Colas y Diccionarios](https://github.com/tomiteos/AlgoDatos-1-TMateos/blob/main/Practicas/Practica%20Guia%208%20-%20Archivos%20Pilas%20Colas%20y%20Diccionarios.pdf)|[8](https://github.com/tomiteos/AlgoDatos-1-TMateos/tree/main/Solucion%20Practicas/Practica%208)|
 
 ### Parciales
 | Parcial      | Solucion     |
