@@ -30,6 +30,8 @@
 |[Practica Guia 8 - Archivos Pilas Colas y Diccionarios](https://github.com/tomiteos/AlgoDatos-1-TMateos/blob/main/Practicas/Practica%20Guia%208%20-%20Archivos%20Pilas%20Colas%20y%20Diccionarios.pdf)|[8](https://github.com/tomiteos/AlgoDatos-1-TMateos/tree/main/Solucion%20Practicas/Practica%208)|
 
 ### Parciales
-| Parcial      | Solucion     |
-| -------------  |:-------------:|
-| [Simulacro haskell](https://github.com/tomiteos/AlgoDatos-1-TMateos/blob/main/Simulacro/Simulacro%20Parcial%20Haskell.pdf) |  [Solucion](https://github.com/tomiteos/AlgoDatos-1-TMateos/blob/main/Parciales/Solucion%20haskell.hs.txt)|
+| Parcial    |      |
+| -------------  |-------------|
+| [Simulacro haskell](https://github.com/tomiteos/AlgoDatos-1-TMateos/blob/main/Parciales/Simulacro%20Parcial%20Haskell.pdf) |  [Solucion](https://github.com/tomiteos/AlgoDatos-1-TMateos/blob/main/Parciales/Solucion%20haskell.hs.txt)|     
+[Parcial Python y Solucion](https://github.com/tomiteos/AlgoDatos-1-TMateos/blob/main/Parciales/Parcial%20python%20y%20Solucion.pdf) 
+[Parcial Haskell y Solucion](https://github.com/tomiteos/AlgoDatos-1-TMateos/blob/main/Parciales/Parcial%20Haskell%20y%20Solucion.pdf)
