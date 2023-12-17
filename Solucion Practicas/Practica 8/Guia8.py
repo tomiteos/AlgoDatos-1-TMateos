@@ -40,8 +40,6 @@ def clonarsincomentarios(nombre_archivo:str):
     archivo.close()
     clonado.close()
 
-print(clonarsincomentarios("a.txt"))
-
 # Ejercicio 3
 def invertirtexto(nombre_archivo:str):
     archivo = open(nombre_archivo,"r")
@@ -95,7 +93,7 @@ def agrupar_por_longitud(nombrearchivo:str)->dict:
             else:
                 resdict[len(palabra)] +=1
         return resdict
-print(agrupar_por_longitud('longitudes.txt'))
+
 
 # Ejercicio 20
 def lupromedios(libretauni:str)->dict:
@@ -103,4 +101,4 @@ def lupromedios(libretauni:str)->dict:
     with open(libretauni,'r') as libreta:
         lu = libreta.readlines()
         print(lu)
-print(lupromedios('libretau.csv'))        
+print(lupromedios("libretau.csv"))        
