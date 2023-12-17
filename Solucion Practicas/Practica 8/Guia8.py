@@ -100,5 +100,24 @@ def lupromedios(libretauni:str)->dict:
     resdict = {}
     with open(libretauni,'r') as libreta:
         lu = libreta.readlines()
-        print(lu)
-print(lupromedios("libretau.csv"))
+        for linea in lu[1::]:
+            row = linea.split()
+            for dato in row:
+                datosexamen = dato.split(',')
+                numerolibreta = datosexamen[0]
+                nota = datosexamen[3]
+                if datosexamen[0] not in resdict:
+                    resdict[numerolibreta] = {}
+                    resdict[numerolibreta]['nota'] = 0
+                    resdict[numerolibreta]['nota'] += int(nota)
+                    resdict[numerolibreta]['cantidadnotas'] = 0
+                    resdict[numerolibreta]['cantidadnotas'] += 1
+                else:
+                    resdict[numerolibreta]['nota'] += int(nota)
+                    resdict[numerolibreta]['cantidadnotas'] += 1
+            resdict[numerolibreta]['promedio'] = resdict[numerolibreta]['nota'] / resdict[numerolibreta]['cantidadnotas']
+        res = {}
+        for alumno in resdict:
+            res[alumno] = resdict[alumno]['promedio']
+    return res
+# dio mio no se que hice aca
