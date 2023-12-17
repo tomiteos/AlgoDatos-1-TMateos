@@ -120,4 +120,4 @@ def lupromedios(libretauni:str)->dict:
         for alumno in resdict:
             res[alumno] = resdict[alumno]['promedio']
     return res
-# dio mio no se que hice aca
+# a fuerza bruta lo hice, funcionar funciona pero se puede mejorar MUCHISIMO.
