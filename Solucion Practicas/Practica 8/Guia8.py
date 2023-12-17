@@ -82,4 +82,17 @@ def binariolegible(nombre_archivo):
 
 # Ejercicio 7
 # Mirar Ejercicio aparte
-        
+# Ejercicio 19
+def agrupar_por_longitud(nombrearchivo:str)->dict:
+    resdict = {}
+    with open(nombrearchivo,'r') as archivo:
+        texto = archivo.read().split()
+        print(len(texto))
+        for palabra in texto:
+            if len(palabra) not in resdict:
+                resdict[len(palabra)] = 0
+                resdict[len(palabra)] +=1
+            else:
+                resdict[len(palabra)] +=1
+        return resdict
+print(agrupar_por_longitud('longitudes.txt'))
