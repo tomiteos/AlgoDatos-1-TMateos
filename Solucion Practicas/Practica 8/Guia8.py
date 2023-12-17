@@ -101,4 +101,4 @@ def lupromedios(libretauni:str)->dict:
     with open(libretauni,'r') as libreta:
         lu = libreta.readlines()
         print(lu)
-print(lupromedios("libretau.csv"))        
+print(lupromedios("libretau.csv"))
