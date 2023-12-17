@@ -96,3 +96,11 @@ def agrupar_por_longitud(nombrearchivo:str)->dict:
                 resdict[len(palabra)] +=1
         return resdict
 print(agrupar_por_longitud('longitudes.txt'))
+
+# Ejercicio 20
+def lupromedios(libretauni:str)->dict:
+    resdict = {}
+    with open(libretauni,'r') as libreta:
+        lu = libreta.readlines()
+        print(lu)
+print(lupromedios('libretau.csv'))        
